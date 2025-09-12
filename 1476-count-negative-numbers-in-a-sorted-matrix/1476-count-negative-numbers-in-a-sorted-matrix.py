@@ -5,5 +5,4 @@ class Solution(object):
             for c in i:
                 if c<0:
                     new_list.append(c)
-
         return len(new_list)
