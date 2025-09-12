@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yusuf-tufan/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
