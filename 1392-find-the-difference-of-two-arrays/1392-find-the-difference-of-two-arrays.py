@@ -2,7 +2,6 @@ class Solution(object):
     def findDifference(self, nums1, nums2):
         answer0=[]
         answer1=[]
-        new_list=[]
         for i in nums1:
             if i not in nums2:
                 answer0.append(i)
@@ -11,6 +10,5 @@ class Solution(object):
                 answer1.append(x)
         answer0=list(set(answer0))
         answer1=list(set(answer1))
-        new_list.append(answer0)
-        new_list.append(answer1)
+        new_list=[answer0,answer1]
         return new_list
