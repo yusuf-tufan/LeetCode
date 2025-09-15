@@ -4,7 +4,6 @@ class Solution(object):
         for c in range(len(new_text)):
             for i in brokenLetters:
                 for x in new_text:
-                    print(x)
                     if i in x:
                         new_text.remove(x)
         return len(new_text)
