@@ -6,5 +6,4 @@ class Solution(object):
                 for x in new_text:
                     if i in x:
                         new_text.remove(x)
-        a=len(new_text)
-        return a
+        return len(new_text)
