@@ -13,5 +13,4 @@ class Solution(object):
             else:
                 new_list.sort()
                 new_list.remove(new_list[-1])
-
                 return int(new_list[-1])
