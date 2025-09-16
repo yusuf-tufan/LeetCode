@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/yusuf-tufan/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
