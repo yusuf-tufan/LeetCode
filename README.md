@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yusuf-tufan/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
