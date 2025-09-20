@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yusuf-tufan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yusuf-tufan/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
