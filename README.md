@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yusuf-tufan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1904-second-largest-digit-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/yusuf-tufan/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
