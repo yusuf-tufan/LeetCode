@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
