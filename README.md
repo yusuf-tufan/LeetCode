@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -124,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
