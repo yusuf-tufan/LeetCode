@@ -4,5 +4,4 @@ class Solution(object):
         sentence=''.join(set(sentence))
         if len(letters)==len(sentence):
             return True
-        else:
-            return False
+        return False
