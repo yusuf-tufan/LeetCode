@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/yusuf-tufan/LeetCode/tree/master/2752-sum-multiples) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
