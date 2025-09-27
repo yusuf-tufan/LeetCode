@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/2383-add-two-integers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/yusuf-tufan/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/yusuf-tufan/LeetCode/tree/master/2752-sum-multiples) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
