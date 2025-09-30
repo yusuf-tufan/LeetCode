@@ -6,5 +6,4 @@ class Solution(object):
             if abs(nums[nums.index(0)-1]) < nums[nums.index(0)+1]:
                 return (nums[nums.index(0)-1])
             return nums[nums.index(0)+1]
-        else:
-            return nums[nums.index(0)-1]
+        return nums[nums.index(0)-1]
