@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/yusuf-tufan/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/yusuf-tufan/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yusuf-tufan/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/yusuf-tufan/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yusuf-tufan/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
