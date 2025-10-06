@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yusuf-tufan/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yusuf-tufan/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yusuf-tufan/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
