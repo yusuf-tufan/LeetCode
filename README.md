@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yusuf-tufan/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/yusuf-tufan/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yusuf-tufan/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/yusuf-tufan/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
