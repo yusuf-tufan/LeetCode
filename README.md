@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yusuf-tufan/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yusuf-tufan/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/yusuf-tufan/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yusuf-tufan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
