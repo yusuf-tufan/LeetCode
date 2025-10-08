@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/yusuf-tufan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/yusuf-tufan/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/yusuf-tufan/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/yusuf-tufan/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yusuf-tufan/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yusuf-tufan/LeetCode/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yusuf-tufan/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/yusuf-tufan/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yusuf-tufan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
