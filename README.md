@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/yusuf-tufan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/yusuf-tufan/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/yusuf-tufan/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yusuf-tufan/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yusuf-tufan/LeetCode/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/1284-four-divisors) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Bucket Sort
 |  |
