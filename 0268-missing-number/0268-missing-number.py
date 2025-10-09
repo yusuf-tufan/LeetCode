@@ -1,5 +1,5 @@
 class Solution(object):
     def missingNumber(self, nums):
-        for i in range(0,len(nums)+1):
-            if i not in nums:
-                return i
+        nums2=list(range(0,len(nums)+1))
+        x=list(set(nums2)-set(nums))
+        return x[0]
