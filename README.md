@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/yusuf-tufan/LeetCode/tree/master/0326-power-of-three) |
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/yusuf-tufan/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yusuf-tufan/LeetCode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
