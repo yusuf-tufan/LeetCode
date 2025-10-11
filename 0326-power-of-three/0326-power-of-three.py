@@ -4,7 +4,7 @@ class Solution(object):
         k=-3
         if n==-3:
             return False
-        for i in range(50):
+        for i in range(20):
             c*=3
             if i%2!=0:
                 k**i
