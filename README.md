@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
@@ -221,4 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
