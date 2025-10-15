@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/yusuf-tufan/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/yusuf-tufan/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2391-strong-password-checker-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
