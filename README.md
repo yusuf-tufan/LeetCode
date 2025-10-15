@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/yusuf-tufan/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/yusuf-tufan/LeetCode/tree/master/0217-contains-duplicate) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
