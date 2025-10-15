@@ -8,5 +8,5 @@ class Solution(object):
             new_nums.add(i)
         for c in nums_num:
             new_nums.remove(c)
-        new_nums=list(set(new_nums))
+        new_nums=list(new_nums)
         return new_nums[0]
