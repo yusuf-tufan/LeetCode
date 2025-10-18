@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yusuf-tufan/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
