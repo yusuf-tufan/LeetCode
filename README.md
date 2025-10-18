@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/yusuf-tufan/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
+| [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
