@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/yusuf-tufan/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/yusuf-tufan/LeetCode/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/yusuf-tufan/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yusuf-tufan/LeetCode/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/yusuf-tufan/LeetCode/tree/master/0231-power-of-two) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0190-reverse-bits) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yusuf-tufan/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
