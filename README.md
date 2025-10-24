@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yusuf-tufan/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1603-running-sum-of-1d-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1944-truncate-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/yusuf-tufan/LeetCode/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
