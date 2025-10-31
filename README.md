@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yusuf-tufan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/yusuf-tufan/LeetCode/tree/master/0500-keyboard-row) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/yusuf-tufan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/yusuf-tufan/LeetCode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yusuf-tufan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/yusuf-tufan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
