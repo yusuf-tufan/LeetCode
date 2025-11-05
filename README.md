@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/yusuf-tufan/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/yusuf-tufan/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Memoization
 |  |
 | ------- |
