@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
+| [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/yusuf-tufan/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/yusuf-tufan/LeetCode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/yusuf-tufan/LeetCode/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
