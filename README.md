@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Matrix
 |  |
 | ------- |
