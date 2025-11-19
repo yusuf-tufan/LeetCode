@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/yusuf-tufan/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/yusuf-tufan/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/yusuf-tufan/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/yusuf-tufan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/1284-four-divisors) |
