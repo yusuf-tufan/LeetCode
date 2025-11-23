@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1585-the-kth-factor-of-n](https://github.com/yusuf-tufan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1837-sum-of-digits-in-base-k](https://github.com/yusuf-tufan/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
