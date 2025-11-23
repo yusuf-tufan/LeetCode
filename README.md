@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yusuf-tufan/LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yusuf-tufan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/yusuf-tufan/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/yusuf-tufan/LeetCode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/yusuf-tufan/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/yusuf-tufan/LeetCode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/yusuf-tufan/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yusuf-tufan/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1486-xor-operation-in-an-array) |
