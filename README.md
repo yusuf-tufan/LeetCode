@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yusuf-tufan/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yusuf-tufan/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/yusuf-tufan/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/yusuf-tufan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yusuf-tufan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yusuf-tufan/LeetCode/tree/master/0075-sort-colors) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/yusuf-tufan/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
