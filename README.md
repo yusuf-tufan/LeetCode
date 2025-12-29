@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yusuf-tufan/LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yusuf-tufan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yusuf-tufan/LeetCode/tree/master/0792-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/yusuf-tufan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/yusuf-tufan/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/yusuf-tufan/LeetCode/tree/master/1137-height-checker) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yusuf-tufan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yusuf-tufan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/yusuf-tufan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/yusuf-tufan/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/yusuf-tufan/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/yusuf-tufan/LeetCode/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/yusuf-tufan/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-day-of-the-year](https://github.com/yusuf-tufan/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yusuf-tufan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1283-reformat-date](https://github.com/yusuf-tufan/LeetCode/tree/master/1283-reformat-date) |
