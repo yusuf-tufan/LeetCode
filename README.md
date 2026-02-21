@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yusuf-tufan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3830-find-closest-person](https://github.com/yusuf-tufan/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/yusuf-tufan/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yusuf-tufan/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
 | ------- |
