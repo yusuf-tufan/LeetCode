@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yusuf-tufan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/yusuf-tufan/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/yusuf-tufan/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
