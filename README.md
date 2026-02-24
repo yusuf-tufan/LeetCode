@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-find-words-containing-character](https://github.com/yusuf-tufan/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yusuf-tufan/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/yusuf-tufan/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yusuf-tufan/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
+| [3467-transform-array-by-parity](https://github.com/yusuf-tufan/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/yusuf-tufan/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2190-count-common-words-with-one-occurrence](https://github.com/yusuf-tufan/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/yusuf-tufan/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
