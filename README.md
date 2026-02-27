@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/yusuf-tufan/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3582-generate-tag-for-video-caption](https://github.com/yusuf-tufan/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/yusuf-tufan/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/yusuf-tufan/LeetCode/tree/master/3813-vowel-consonant-score) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/yusuf-tufan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3582-generate-tag-for-video-caption](https://github.com/yusuf-tufan/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3813-vowel-consonant-score](https://github.com/yusuf-tufan/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3931-process-string-with-special-operations-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
