@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yusuf-tufan/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/yusuf-tufan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/yusuf-tufan/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yusuf-tufan/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yusuf-tufan/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3541-report-spam-message](https://github.com/yusuf-tufan/LeetCode/tree/master/3541-report-spam-message) |
 | [3668-restore-finishing-order](https://github.com/yusuf-tufan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/yusuf-tufan/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yusuf-tufan/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yusuf-tufan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
