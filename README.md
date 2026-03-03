@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/yusuf-tufan/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/yusuf-tufan/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/yusuf-tufan/LeetCode/tree/master/2752-sum-multiples) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/yusuf-tufan/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yusuf-tufan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yusuf-tufan/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
