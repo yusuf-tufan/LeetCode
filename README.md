@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/yusuf-tufan/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2465-number-of-distinct-averages](https://github.com/yusuf-tufan/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yusuf-tufan/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yusuf-tufan/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/yusuf-tufan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yusuf-tufan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2465-number-of-distinct-averages](https://github.com/yusuf-tufan/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/yusuf-tufan/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/yusuf-tufan/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yusuf-tufan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2465-number-of-distinct-averages](https://github.com/yusuf-tufan/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/yusuf-tufan/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yusuf-tufan/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/yusuf-tufan/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yusuf-tufan/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2465-number-of-distinct-averages](https://github.com/yusuf-tufan/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/yusuf-tufan/LeetCode/tree/master/2502-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yusuf-tufan/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
