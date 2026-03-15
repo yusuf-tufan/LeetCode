@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/yusuf-tufan/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yusuf-tufan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/yusuf-tufan/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3827-count-monobit-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/yusuf-tufan/LeetCode/tree/master/2083-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yusuf-tufan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yusuf-tufan/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/yusuf-tufan/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Stack
 |  |
 | ------- |
